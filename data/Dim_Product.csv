@@ -1,0 +1,46 @@
+product_id,item_name,category
+2001,Blouse,Clothing
+2002,T-Shirt,Clothing
+2003,Jeans,Clothing
+2004,Dress,Clothing
+2005,Sweater,Clothing
+2006,Jacket,Clothing
+2007,Shorts,Clothing
+2008,Skirt,Clothing
+2009,Hoodie,Clothing
+2010,Coat,Clothing
+2011,Cardigan,Clothing
+2012,Leggings,Clothing
+2013,Polo Shirt,Clothing
+2014,Blazer,Clothing
+2015,Tank Top,Clothing
+2016,Sneakers,Footwear
+2017,Boots,Footwear
+2018,Sandals,Footwear
+2019,Heels,Footwear
+2020,Loafers,Footwear
+2021,Running Shoes,Footwear
+2022,Flip Flops,Footwear
+2023,Oxford Shoes,Footwear
+2024,Ankle Boots,Footwear
+2025,Slippers,Footwear
+2026,Sunglasses,Accessories
+2027,Watch,Accessories
+2028,Belt,Accessories
+2029,Hat,Accessories
+2030,Scarf,Accessories
+2031,Gloves,Accessories
+2032,Bag,Accessories
+2033,Wallet,Accessories
+2034,Jewelry,Accessories
+2035,Backpack,Accessories
+2036,Raincoat,Outerwear
+2037,Puffer Jacket,Outerwear
+2038,Windbreaker,Outerwear
+2039,Trench Coat,Outerwear
+2040,Fleece Jacket,Outerwear
+2041,Vest,Outerwear
+2042,Ski Jacket,Outerwear
+2043,Denim Jacket,Outerwear
+2044,Leather Jacket,Outerwear
+2045,Poncho,Outerwear
